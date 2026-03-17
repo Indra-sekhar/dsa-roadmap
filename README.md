@@ -11,8 +11,7 @@ A personalized, interactive **Data Structures & Algorithms roadmap** built with 
 
 ## 🚀 Live Demo
 
-👉 [View Live App](https://dsa-roadmap-indra-sekhar.vercel.app)
-
+👉 [View Live App](https://dsa-roadmap-brown.vercel.app/)
 ---
 
 ## 📌 About
